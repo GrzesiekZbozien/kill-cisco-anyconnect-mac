@@ -1,10 +1,10 @@
 # README #
 
-Kill Cisco AnyConnect for Macos
+Kill Cisco AnyConnect for MacOS
 
 ### How to use it? ###
 * To disconnect:
-    * ```sudo sh ~/dotfiles/kill-cisco.sh disconnect```
+    * ```sudo sh ~/PATH/TO/REPOSITORY/kill-cisco.sh disconnect```
 * To connect again:
     * ```sudo sh ~/PATH/TO/REPOSITORY/kill-cisco.sh connect```
     * Cisco Filter won't start without enabling system extension:
